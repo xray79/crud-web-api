@@ -1,0 +1,12 @@
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/bin/Debug/net7.0/Domain.dll
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/obj/Debug/net7.0/Domain.dll
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/ibnul/Desktop/web-projects/c#/crud-web-api/Domain/obj/Debug/net7.0/ref/Domain.dll
