@@ -35,12 +35,13 @@ var services = scope.ServiceProvider;
 try
 {
     var context = services.GetRequiredService<DataContext>();
-    context.Database.Migrate();
+    context.Database.MigrateAsync();
+    await Seed.SeedData(context);
 }
-catch (Exception e)
+catch (Exception ex)
 {
     var logger = services.GetRequiredService<ILogger<Program>>();
-    logger.LogError(e, "An error occured during migration");
+    logger.LogError(ex, "An error occured during migration");
 }
 
 app.Run();
