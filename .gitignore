@@ -481,7 +481,7 @@ $RECYCLE.BIN/
 *.pdb
 *.info
 
-bin/
-obj/
+/bin/
+/obj/
 
 appsettings.json
